@@ -2,7 +2,7 @@ let formData = {
   email: '',
   message: '',
 };
-console.log('formData', formData);
+// console.log('formData', formData);
 
 const form = document.querySelector('.feedback-form');
 const { email, message } = form.elements;
